@@ -33,7 +33,7 @@ html 文本分块往往用两个标记，如 <p></p>。将样式表加入到第�
 <head>
   <title>Parsing JSON</title>
 
-<!-- 第二种插入JS脚本的方法
+<!--第一种插入JS脚本的方法
 <script src="src/main.js"></script>
 -->
 
