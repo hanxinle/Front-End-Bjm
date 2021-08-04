@@ -1,2 +1,4 @@
-document.write("hello world");
-//alert("hello world.\n");
+alert("window-show.\n");
+document.write("hello world<br>");
+document.write("hanxinle");
+
